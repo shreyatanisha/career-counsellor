@@ -1,8 +1,20 @@
-﻿venv_new/
+﻿# Python virtualenvs
+venv/
+venv_new/
+backend/venv/
+backend/venv_new/
+
+# Node
 node_modules/
+
+# Env and build
 .env
 build/
 dist/
+
+# Python caches
 __pycache__/
 *.pyc
+
+# Editor
 .vscode/
