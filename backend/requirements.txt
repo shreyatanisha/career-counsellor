@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+cryptography
+anthropic
+python-jose[cryptography]
+passlib
+python-dotenv
+pydantic
+pydantic-settings
+firebase-admin
+pytest
+httpx
+pytest-asyncio
+google-generativeai
